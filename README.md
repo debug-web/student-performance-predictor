@@ -28,7 +28,7 @@ In many educational institutions, students who are at risk of failing are identi
 student-performance-predictor/
 │
 ├── student_performance_predictor.py   # Main ML script
-├── student-mat.csv                    # Dataset (download separately — see below)
+├── student-mat.csv                    # Dataset
 ├── results.png                        # Output: confusion matrix + feature importance chart
 ├── README.md                          # This file
 └── report/
