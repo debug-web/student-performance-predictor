@@ -46,7 +46,6 @@ student-performance-predictor/
 - **Features:** 33 attributes covering demographics, family background, study habits, and grades
 - **Target:** Final grade `G3` → converted to `Pass (≥10)` or `Fail (<10)`
 
-> **Download the dataset manually** from the UCI link above and place `student-mat.csv` in the root project folder before running the script.
 
 ---
 
