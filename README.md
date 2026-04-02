@@ -6,7 +6,7 @@ A machine learning project that predicts whether a student will **pass or fail**
 
 ## 📌 Problem Statement
 
-In many educational institutions, students who are at risk of failing are identified only after it is too late to intervene. This project builds an **early-warning classifier** using supervised learning that can flag at-risk students based on observable characteristics — enabling teachers and counsellors to provide timely support.
+In many educational institutions, students who are at risk of failing are identified only after it is too late to intervene. This project builds an **early-warning classifier** using supervised learning that can flag at-risk students based on observable characteristics, enabling teachers and counsellors to provide timely support.
 
 ---
 
