@@ -1,6 +1,6 @@
 # 🎓 Student Performance Predictor
 
-A machine learning project that predicts whether a student will **pass or fail** based on personal, social, and academic factors — built as a capstone for the *Fundamentals of AI and ML* course.
+A machine learning project that predicts whether a student will **pass or fail** based on personal, social, and academic factors, built as a capstone for the *Fundamentals of AI and ML* course.
 
 ---
 
