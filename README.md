@@ -144,6 +144,5 @@ This project is submitted as part of an academic course evaluation. Dataset cred
 
 ## 👤 Author
 
-**[Your Name]**  
+**Shivam Rathore**  
 Course: Fundamentals of AI and ML  
-Submission Date: April 2026
